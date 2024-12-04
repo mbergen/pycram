@@ -27,7 +27,7 @@ when creating the broadcaster.
 
 .. code-block:: python
 
-    from pycram.ros.tf_broadcaster import TFBroadcaster
+    from pycram.ros_utils.tf_broadcaster import TFBroadcaster
 
     broadcaster = TFBroadcaster()
 
